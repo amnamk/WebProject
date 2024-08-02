@@ -1,0 +1,40 @@
+{
+  "registerContent": {
+    "title": "Register",
+    "subtitle": "Account Registration",
+    "description": "Create your account to start shopping today.",
+    "form": {
+      "inputs": [
+        {
+          "type": "text",
+          "placeholder": "User Name",
+          "name": "username",
+          "class": "form-control mb-3"
+        },
+        {
+          "type": "password",
+          "placeholder": "Password",
+          "name": "password",
+          "class": "form-control mb-3"
+        },
+        {
+          "type": "text",
+          "placeholder": "Email",
+          "name": "email",
+          "class": "form-control mb-3"
+        },
+        {
+          "type": "text",
+          "placeholder": "Phone",
+          "name": "phone",
+          "class": "form-control mb-3"
+        }
+      ],
+      "button": {
+        "type": "submit",
+        "text": "Register",
+        "class": "btn btn-primary"
+      }
+    }
+  }
+}

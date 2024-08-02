@@ -1,0 +1,28 @@
+{
+  "loginContent": {
+    "title": "Login",
+    "subtitle": "Account login",
+    "description": "Securely access your account with just a click.",
+    "form": {
+      "inputs": [
+        {
+          "type": "text",
+          "placeholder": "User Name",
+          "name": "username",
+          "class": "form-control mb-3"
+        },
+        {
+          "type": "password",
+          "placeholder": "Password",
+          "name": "password",
+          "class": "form-control mb-3"
+        }
+      ],
+      "button": {
+        "type": "submit",
+        "text": "Login",
+        "class": "btn btn-primary"
+      }
+    }
+  }
+}

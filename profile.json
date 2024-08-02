@@ -1,0 +1,39 @@
+{
+  "profileContent": {
+    "title": "Profile",
+    "description": "Your Profile",
+    "form": {
+      "inputs": [
+        {
+          "type": "text",
+          "placeholder": "User Name",
+          "name": "username",
+          "class": "form-control mb-3"
+        },
+        {
+          "type": "password",
+          "placeholder": "Password",
+          "name": "password",
+          "class": "form-control mb-3"
+        },
+        {
+          "type": "text",
+          "placeholder": "Email",
+          "name": "email",
+          "class": "form-control mb-3"
+        },
+        {
+          "type": "text",
+          "placeholder": "Phone",
+          "name": "phone",
+          "class": "form-control mb-3"
+        }
+      ],
+      "button": {
+        "type": "submit",
+        "text": "Update Profile",
+        "class": "btn btn-primary"
+      }
+    }
+  }
+}

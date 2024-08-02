@@ -1,0 +1,46 @@
+{
+  "homeContent": {
+    "title": "Products",
+    "description": "Electronic products epitomize technological advancement, enhancing efficiency and accessibility.",
+    "imageSrc": "./images/prod.png"
+  },
+  "otherCards": [
+    {
+      "imageSrc": "./images/c3.png",
+      "title": "Home Gadgets",
+      "link": "#homegadgets"
+    },
+    {
+      "imageSrc": "./images/c4.png",
+      "title": "Gaming Gadgets",
+      "link": "#gaminggadgets"
+    },
+    {
+      "imageSrc": "./images/c5.png",
+      "title": "Electronic Gadgets",
+      "link": "#electronicgadgets"
+    }
+  ],
+  "offer": [
+    {
+      "icon": "cart-shopping",
+      "title": "Free Shipping",
+      "description": "On order over $1000"
+    },
+    {
+      "icon": "rotate-left",
+      "title": "Free Returns",
+      "description": "Within 30 days"
+    },
+    {
+      "icon": "truck",
+      "title": "Fast Delivery",
+      "description": "World Wide"
+    },
+    {
+      "icon": "thumbs-up",
+      "title": "Big choice",
+      "description": "Of products"
+    }
+  ]
+}

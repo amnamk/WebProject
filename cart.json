@@ -1,0 +1,20 @@
+[
+  {
+    "name": "IPhone 13",
+    "imageUrl": "https://phones.mintmobile.com/wp-content/uploads/2023/09/Apple_iPhone_15_Black_PDP_Image.png",
+    "quantity": 1,
+    "price": "$999.00"
+  },
+  {
+    "name": "Apple Watch",
+    "imageUrl": "https://alephksa.com/cdn/shop/files/Apple_Watch_Series_8_GPS_45mm_Starlight_Aluminum_Starlight_Sport_Band_PDP_Image_Position-1__en-US_1680x.jpg?v=1699028675",
+    "quantity": 2,
+    "price": "$299.00"
+  },
+  {
+    "name": "Headset",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Qd3f00KqL._AC_SL1500_.jpg",
+    "quantity": 1,
+    "price": "$349.00"
+  }
+]
